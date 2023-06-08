@@ -15,7 +15,6 @@ var q = [
 	'How are you understanding customer needs?',
 	'How will you get users?',
 	'Who would you hire or how would you add to your team?',
-	
 	'So what are you working on?',
 	'Do you have a demo?',
 	'Where is the rocket science here?',
@@ -76,9 +75,32 @@ var q = [
 	'What is the next step with the product evolution?',
 	'Have you raised funding?',
 	'Who would be your next hire?',
-	
 	'How do you know people want this?',
-	'What do you know about this space/product others don&#39;t know?'
+	'What do you know about this space/product others don&#39;t know?',
+	'What are you making?',
+	'Who needs what you’re making?',
+	'How large is the market that you are going after?',
+	'How do you know your users need this?',
+	'What are they doing now?',
+	'What, exactly, makes you different from existing options?',
+	'Why isn’t someone already doing this?',
+	'How will customers and/or users find out about you?',
+	'What are the key things about your field that outsiders don’t understand?',
+	'What part of your project are you going to build first?',
+	'Who is going to be your first paying customer?',
+	'Why did you choose this idea?',
+	'What have you learned so far from working on it?',
+	'What is the tech?',
+	'What does each founder do on the team?',
+	'What are your other ideas?',
+	'Why do this analogy from car dealerships and whatnot translate to smaller products and stores?',
+	'What edge do you have over all the other companies that will work on this idea?',
+	'Who are your competitors?',
+	'What’s your moat?',
+	'What is the biggest obstacle or challenge that you will need to overcome? How will you overcome this?',
+	'How do you plan to scale the operations?',
+	'What’s your current onboarding pipeline for stores?',
+	'What will you do if many stores don’t have inventory management?'
 ];
 
 // Tips
